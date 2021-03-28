@@ -114,7 +114,7 @@ conda activate bd9
 ```
 #!/opt/anaconda/envs/bd9/bin/python
 import happybase
-connection = happybase.Connection('bd-node2.newprolab.com')
+connection = happybase.Connection('bd-master.newprolab.com')
 ```
 
 Вы так же можете воспользоваться консольной утилитой hbase, которая запускается для интерактивной работы вот так:
