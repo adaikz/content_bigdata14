@@ -109,7 +109,7 @@ URL не нужно нормализовывать, вообще никак пр
 conda activate bd9
 ```
 
-Подключаться с помощью `happybase` нужно к хосту `bd-node2.newprolab.com`. Пример создания соединения в программе на python:
+Подключаться с помощью `happybase` нужно к хосту `bd-master.newprolab.com`. Пример создания соединения в программе на python:
 
 ```
 #!/opt/anaconda/envs/bd9/bin/python
