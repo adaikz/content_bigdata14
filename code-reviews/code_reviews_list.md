@@ -4,11 +4,11 @@
 
 | Peer 1                    | Peer 2                |
 | ------------------------- | --------------------- |
-| sergey.korolev            | aleksey.lubenetz      |
+| sergey.korolev            | alexey.lubenets       |
 
 
 ## Lab 03
 
 | Peer 1                    | Peer 2                |
 | ------------------------- | --------------------- |
-| sergey.korolev            | aleksey.lubenetz      |
+| sergey.korolev            | alexey.lubenets       |
