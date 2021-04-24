@@ -4,4 +4,18 @@
 
 | Peer 1                    | Peer 2                |
 | ------------------------- | --------------------- |
-| name.surname              | name.surname          |
+| sergey.korolev            | alexey.lubenets       |
+
+
+## Lab 03
+
+| Peer 1                    | Peer 2                |
+| ------------------------- | --------------------- |
+| sergey.korolev            | alexey.lubenets       |
+
+
+## Lab 04
+
+| Peer 1                    | Peer 2                |
+| ------------------------- | --------------------- |
+| sergey.korolev            | alexey.lubenets       |
