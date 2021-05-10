@@ -19,4 +19,5 @@
 
 | Peer 1                    | Peer 2                |
 | ------------------------- | --------------------- |
-| sergey.korolev            | alexey.lubenets       |
+| sergey.korolev            | alexey.lubenets       | 
+| kirill.likhouzov          | evgeny.permyakov      |
