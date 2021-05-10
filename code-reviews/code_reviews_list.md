@@ -5,6 +5,7 @@
 | Peer 1                    | Peer 2                |
 | ------------------------- | --------------------- |
 | sergey.korolev            | alexey.lubenets       |
+| yaroslav.sapronov         | alexey.lubenets       |
 
 
 ## Lab 03
